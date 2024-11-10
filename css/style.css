@@ -236,6 +236,7 @@
       width: 100%;
       margin-top: 0%;
     }
+
     footer {
       width: 100%;
       background-color: rgb(151, 151, 236); 
@@ -250,4 +251,3 @@
     footer .nav-link:hover {
       color: yellow;
     }
-  
