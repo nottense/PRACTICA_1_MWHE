@@ -35,7 +35,7 @@
   
   
   .header-blue {
-      background: rgb(1, 1, 180);
+      background: rgb(151, 151, 236);
       padding-bottom: 3px;
       font-family: 'Roboto Slab', serif;
     }
@@ -221,10 +221,11 @@
       font-weight: 300;
     }
     .gif-container {
-      background-color: rgb(1, 1, 180);
+      background-color: #f1683a;
       display: flex;
       justify-content: center;
       align-items: center;
+      margin-bottom: 2em;
     }
     
     .gif-container img {
@@ -237,9 +238,9 @@
     }
     footer {
       width: 100%;
-      background-color: rgb(1, 1, 180); 
+      background-color: rgb(151, 151, 236); 
       color: white; 
-      margin-top: 1em ;
+      margin-top: 2em ;
     }
     
     footer .nav-link {

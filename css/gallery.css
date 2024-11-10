@@ -35,7 +35,7 @@
   
   
   .header-blue {
-      background: rgb(1, 1, 180);
+      background: rgb(151, 151, 236);
       padding-bottom: 3px;
       font-family: 'Roboto Slab', serif;
     }
@@ -243,7 +243,7 @@ a{
 /* carousel */
 .carousel{
     height: 100vh;
-    margin-top: -50px;
+    margin-top: 1em;
     width: 100vw;
     overflow: hidden;
     position: relative;
@@ -548,3 +548,17 @@ a{
 }
     
     
+footer {
+  width: 100%;
+  background-color: rgb(151, 151, 236); 
+  color: white; 
+  margin-top: 2em ;
+}
+
+footer .nav-link {
+  color: white;
+}
+
+footer .nav-link:hover {
+  color: yellow;
+}

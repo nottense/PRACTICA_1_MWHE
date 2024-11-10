@@ -35,7 +35,7 @@
   
   
   .header-blue {
-      background: rgb(1, 1, 180);
+      background: rgb(151, 151, 236);
       padding-bottom: 3px;
       font-family: 'Roboto Slab', serif;
     }
@@ -242,9 +242,9 @@
   margin-right: 2em;
   border-width: 0.3em;
   border-style: solid;
-  border-color: rgb(1, 1, 180);
+  border-color: #f1683a;
   border-radius: 2em;
-  background-color: rgb(1, 1, 180);
+  background-color: #f1683a;
 }
 
 #texto_paris {
@@ -289,7 +289,7 @@ width: 15em;
 }
 
 .boton p {
-color: rgb(1, 1, 180);
+color: #f1683a;
 font-size: 1.3em;
 margin-top: 0.6em;
 }
@@ -315,7 +315,7 @@ background-color: rgba(255, 255, 255, 0.5)
 position: relative;
 border-color: #ffffff;
 border-radius: 2em;
-background-color: rgb(1, 1, 180);
+background-color: #f1683a;
 margin: auto;
 padding: 20px;
 width: 60%;
@@ -365,9 +365,9 @@ margin-left: 2em;
 margin-right: 2em;
 border-width: 0.3em;
 border-style: solid;
-border-color: rgb(1, 1, 180);
+border-color: #f1683a;
 border-radius: 2em;
-background-color: rgb(1, 1, 180);
+background-color: #f1683a;
 }
 
 #texto_london {
@@ -412,7 +412,7 @@ width: 15em;
 }
 
 .boton p {
-color: rgb(1, 1, 180);
+color: rgb(176, 152, 103);
 font-size: 1.3em;
 margin-top: 0.6em;
 }
@@ -438,7 +438,7 @@ background-color: rgba(255, 255, 255, 0.5)
 position: relative;
 border-color: #ffffff;
 border-radius: 2em;
-background-color: rgb(1, 1, 180);
+background-color: #f1683a;
 margin: auto;
 padding: 20px;
 width: 60%;
@@ -486,11 +486,12 @@ width: 100%;
 margin-top: 2em;
 margin-left: 2em;
 margin-right: 2em;
+margin-bottom: 2em;
 border-width: 0.3em;
 border-style: solid;
-border-color: rgb(1, 1, 180);
+border-color: #f1683a;
 border-radius: 2em;
-background-color: rgb(1, 1, 180);
+background-color: #f1683a;
 }
 
 #texto_online {
@@ -535,7 +536,7 @@ width: 15em;
 }
 
 .boton p {
-color: rgb(1, 1, 180);
+color: #f1683a;
 font-size: 1.3em;
 margin-top: 0.6em;
 }
@@ -561,7 +562,7 @@ background-color: rgba(255, 255, 255, 0.5)
 position: relative;
 border-color: #ffffff;
 border-radius: 2em;
-background-color: rgb(1, 1, 180);
+background-color: #f1683a;
 margin: auto;
 padding: 20px;
 width: 60%;
@@ -604,9 +605,9 @@ color: #ffffff;
 /* inicio maquetación foter */
 
 footer {
-background-color: rgb(1, 1, 180); 
+background-color: rgb(151, 151, 236); 
 color: white; 
-margin-top: 1em ;
+margin-top: 2em ;
 }
 
 footer .nav-link {
@@ -711,7 +712,7 @@ color: yellow;
 }
 
 .boton p {
-  color: rgb(1, 1, 180);
+  color: #f1683a;
   font-size: 1.1em;
   margin-top: 1em;
 }
@@ -748,7 +749,7 @@ color: yellow;
   position: relative;
   border-color: #ffffff;
   border-radius: 2em;
-  background-color: rgb(1, 1, 180);
+  background-color: #f1683a;
   margin-top: 1em;
   width: 80%;
   -webkit-animation-name: animarsuperior;
@@ -814,7 +815,7 @@ color: yellow;
 }
 
 .boton p {
-  color: rgb(1, 1, 180);
+  color: #f1683a;
   font-size: 0.8em;
   margin-top: 1em;
 }
@@ -850,7 +851,7 @@ color: yellow;
   position: relative;
   border-color: #ffffff;
   border-radius: 2em;
-  background-color: rgb(1, 1, 180);
+  background-color: #f1683a;
   margin-top: 1em;
   width: 80%;
   -webkit-animation-name: animarsuperior;
@@ -1114,7 +1115,7 @@ color: yellow;
 }
 
 .boton p {
-  color: rgb(1, 1, 180);
+  color: #f1683a;
   font-size: 0.7em;
   margin-top: 1.5em;
 }
@@ -1123,7 +1124,7 @@ color: yellow;
   position: relative;
   border-color: #ffffff;
   border-radius: 2em;
-  background-color: rgb(1, 1, 180);
+  background-color: #f1683a;
   margin-top: 1em;
   width: 80%;
   -webkit-animation-name: animarsuperior;
@@ -1312,7 +1313,7 @@ color: yellow;
 }
 
 .boton p {
-  color: rgb(1, 1, 180);
+  color: #f1683a;
   font-size: 0.7em;
   margin-top: 1.5em;
 }
@@ -1321,7 +1322,7 @@ color: yellow;
   position: relative;
   border-color: #ffffff;
   border-radius: 2em;
-  background-color: rgb(1, 1, 180);
+  background-color: #f1683a;
   margin-top: 1em;
   width: 80%;
   -webkit-animation-name: animarsuperior;
@@ -1473,7 +1474,7 @@ color: yellow;
 }
 
 .boton p {
-  color: rgb(1, 1, 180);
+  color: #f1683a;
   font-size: 0.7em;
   margin-top: 1.5em;
 }
@@ -1496,7 +1497,7 @@ color: yellow;
   position: relative;
   border-color: #ffffff;
   border-radius: 2em;
-  background-color: rgb(1, 1, 180);
+  background-color: #f1683a;
   margin-top: 1em;
   width: 90%;
   -webkit-animation-name: animarsuperior;
